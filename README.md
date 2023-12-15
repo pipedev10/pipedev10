@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Luis Felipe Carrasco Galindo</h1>
 <h3 align="center">I am a software engineer with experience in various development areas, ranging from QA to Frontend, Backend, and mobile applications. I am in a continuous learning process with the goal of improving my technical skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pipedev10&label=Profile%20views&color=0e75b6&style=flat" alt="pipedev10" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pipedev10" alt="pipedev10" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/pipedev10" target="blank"><img src="https://img.shields.io/twitter/follow/pipedev10?logo=twitter&style=for-the-badge" alt="pipedev10" /></a> </p>
-
-- 🔭 I’m currently working on **Beer**
+- 🔭 I’m currently working on **TSOFT**
 
 - 🌱 I’m currently learning **Android Kotlin, IOS Swift**
 
-- 👯 I’m looking to collaborate on **IOS project**
+- 👯 I’m looking to collaborate on **IOS projects**
 
 - 📝 I regularly write articles on [https://medium.com/@carrascogalindo.felipe](https://medium.com/@carrascogalindo.felipe)
 
